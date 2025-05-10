@@ -1,6 +1,6 @@
 # kanjidic
 
-JPND kanjidic data module.
+The jpndium kanjidic data module.
 
 ## License
 
